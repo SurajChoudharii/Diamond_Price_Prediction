@@ -30,7 +30,7 @@ The diamond industry is highly data-driven, with price depending on a range of p
 Diamond\_Price\_Prediction/
 ├── Diamond\_Price\_Prediction.ipynb  # Main notebook
 ├── README.md                       # Project overview
-└── diamonds.csv                    # Dataset (from Kaggle or similar)
+└── diamonds.csv                    # Dataset 
 
 
 ## 📈 Results
