@@ -27,17 +27,21 @@ The diamond industry is highly data-driven, with price depending on a range of p
 
 ## 📁 Project Structure
 
-Diamond_Price_Prediction/
-├── Diamond_Price_Prediction.ipynb # Main Jupyter notebook with full workflow
-├── diamonds.csv # Dataset 
-├── README.md # Project documentation
+Diamond\_Price\_Prediction/
+├── Diamond\_Price\_Prediction.ipynb  # Main notebook
+├── README.md                       # Project overview
+└── diamonds.csv                    # Dataset (from Kaggle or similar)
 
-📈 Results
-📌 Achieved an R² score of over 0.98 with Random Forest
-🔍 Identified carat, cut, and clarity as top features affecting price
-📉 Lasso and Ridge helped with regularization, while Random Forest delivered the best results
 
-📊 Key Visuals
-Correlation heatmaps of features
-Distribution plots for carat and price
-Residuals vs. predictions comparison
+## 📈 Results
+
+* 📌 Achieved an R² score of over **0.98** with Random Forest
+* 🔍 Identified **carat**, **cut**, and **clarity** as top features affecting price
+* 📉 Lasso and Ridge helped with regularization, while Random Forest delivered the best results
+
+## 📊 Key Visuals
+
+* Correlation heatmaps of features
+* Distribution plots for carat and price
+* Residuals vs. predictions comparison
+
