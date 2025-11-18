@@ -27,11 +27,14 @@ The diamond industry is highly data-driven, with price depending on a range of p
 
 ## 📁 Project Structure
 
-Diamond\_Price\_Prediction/
-├── Diamond\_Price\_Prediction.ipynb  # Main notebook
-├── README.md                       # Project overview
-└── diamonds.csv                    # Dataset Source: Diamond Price Dataset from Kaggle
-(Credit: Kaggle openly provides this dataset for analysis and educational purposes.)
+Diamond_Price_Prediction/
+
+* Diamond_Price_Prediction.ipynb – Main analysis and model-building notebook
+* README.md – Project overview and documentation
+* diamonds.csv – Dataset (Source: Kaggle)
+
+**Dataset Source:** Diamond Price Dataset from Kaggle
+**Credit:** Kaggle openly provides this dataset for analysis and educational purposes.
 
 
 ## 📈 Results
